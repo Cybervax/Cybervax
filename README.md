@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Cybervax
 
-<!--
-**Cybervax/Cybervax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Developer & Content Professional
 
-Here are some ideas to get you started:
+I build web applications and work across freelance writing, content 
+evaluation, and editing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills
+
+- **Web Development** — HTML, CSS, JavaScript, 
+  deployment (Vercel, Netlify).
+- **Content Evaluation & Editing** — reviewing, rephrasing, and refining 
+  written content for clients; strong editorial instincts for tone, 
+  accuracy, and natural voice
+
+
+##  Featured Projects
+
+### [Honeycomb Pastries](https://github.com/Cybervax/honeycomb)
+A gourmet bakery storefront with product browsing, a custom platter builder 
+for catering orders, shopping cart, and WhatsApp-integrated checkout.
+
+**Live:** [honeycomb-web.vercel.app](https://honeycomb-web.vercel.app/)  
+**Stack:** React, TypeScript, Zustand, Tailwind CSS, Shopify Storefront API
+
+---
+
+### [Yara Craft Preorder](https://github.com/Cybervax/yara-craft-preorder)
+A preorder storefront for a handmade bag business, letting customers browse 
+the catalog and place preorders ahead of production.
+
+**Live:** [yara-craft-preorder.lovable.app](https://yara-craft-preorder.lovable.app/)  
+**Stack:** React, TypeScript, Tailwind CSS, shadcn/ui
+
