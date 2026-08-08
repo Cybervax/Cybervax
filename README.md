@@ -6,21 +6,17 @@
 
 I build web applications and work across freelance writing, content evaluation, and editing.
 
-<br>
-
-📫 **elshaddaiabah@gmail.com**
-
-<a href="mailto:elshaddaiabah@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </div>
 
 <br>
 
 ## 🛠️ Skills
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**Languages**
 
 
 
@@ -38,6 +34,12 @@ I build web applications and work across freelance writing, content evaluation, 
 
 
 
+</td>
+<td align="center" width="33%">
+
+**Frameworks & Tools**
+
+
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
@@ -46,6 +48,12 @@ I build web applications and work across freelance writing, content evaluation, 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+
+
+</td>
+<td align="center" width="33%">
+
+**Deployment**
 
 
 
@@ -58,7 +66,9 @@ I build web applications and work across freelance writing, content evaluation, 
 
 
 
-</div>
+</td>
+</tr>
+</table>
 
 **Content Evaluation & Editing**
 Reviewing, rephrasing, and refining written content for clients — strong editorial instincts for tone, accuracy, and natural voice.
@@ -67,12 +77,11 @@ Reviewing, rephrasing, and refining written content for clients — strong edito
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 ### 🍯 Honeycomb Pastries
-
 A gourmet bakery storefront with product browsing, a custom platter builder for catering orders, shopping cart, and WhatsApp-integrated checkout.
 
 
@@ -96,13 +105,22 @@ A gourmet bakery storefront with product browsing, a custom platter builder for 
 
 
 
+</td>
+<td width="30%" align="center" valign="middle">
+
 **[🔗 View Live Site](https://honeycomb-web.vercel.app/)**
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
 
 ### 👜 Yara Craft Preorder
-
 A preorder storefront for a handmade bag business, letting customers browse the catalog and place preorders ahead of production.
 
 
@@ -121,6 +139,9 @@ A preorder storefront for a handmade bag business, letting customers browse the 
 
 
 
+</td>
+<td width="30%" align="center" valign="middle">
+
 **[🔗 View Live Site](https://yara-craft-preorder.lovable.app/)**
 
 </td>
@@ -132,5 +153,13 @@ A preorder storefront for a handmade bag business, letting customers browse the 
 ---
 
 <div align="center">
-<sub>Let's connect — always open to new projects and collaborations.</sub>
+
+## 📫 Contact
+
+<a href="mailto:elshaddaiabah@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+elshaddaiabah@gmail.com
+
 </div>
